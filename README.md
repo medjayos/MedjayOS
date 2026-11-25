@@ -49,7 +49,11 @@ Good investigation is not only about finding information. It is about verifying 
 
 ## Follow
 
-Social links will be added here as the profiles go live.
+- **X:** https://x.com/medjayos
+- **Mastodon:** https://infosec.exchange/@medjayos
+- **Bluesky:** https://bsky.app/profile/medjayos.bsky.social
+- **Reddit:** https://www.reddit.com/user/medjayos/
+- **Facebook:** https://www.facebook.com/medjayos
 
 ---
 
