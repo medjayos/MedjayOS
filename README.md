@@ -12,19 +12,18 @@
 
 ---
 
-## Terminal
-
 <div align="center">
 
-<table>
-<tr><td bgcolor="#0a0a0a">
+<table width="100%" bgcolor="#0a0a0a">
+<tr>
+<td>
 
-<pre><font color="#39ff14">[root@github ~]$ ./profile_counter.sh</font></pre>
+<pre><font color="#39ff14">[root@github ~]$ ./profile_counter.sh</font>
+<font color="#39ff14">&gt; User: medjayos</font>
+<font color="#39ff14">&gt; Visits: </font><img src="https://komarev.com/ghpvc/?username=medjayos&label=&color=0a0a0a&style=flat" alt="Profile visits"></pre>
 
-<font color="#39ff14"> &gt; User: medjayos</font><br>
-<font color="#39ff14"> &gt; Visits: </font><img src="https://komarev.com/ghpvc/?username=medjayos&label=&color=0a0a0a&style=flat" alt="Profile visits">
-
-</td></tr>
+</td>
+</tr>
 </table>
 
 </div>
@@ -56,4 +55,28 @@ Good investigation is not only about finding information. It is about verifying 
 ## Privacy
 
 - Notebook entries and case files stay in your browser.
-- Read the full <a href="https://medjay.dpdns.org/privacy" target="_blank" rel="
+- Read the full <a href="https://medjay.dpdns.org/privacy" target="_blank" rel="noopener noreferrer">privacy notice</a>.
+
+## Links
+
+- **Website:** <a href="https://medjay.dpdns.org/" target="_blank" rel="noopener noreferrer">https://medjay.dpdns.org/</a>
+- **Articles:** <a href="https://medjay.dpdns.org/apps/articles" target="_blank" rel="noopener noreferrer">Articles</a>
+- **Field Manual:** <a href="https://medjay.dpdns.org/apps/field-manual" target="_blank" rel="noopener noreferrer">Field Manual</a>
+- **Contact:** <a href="https://medjay.dpdns.org/contact" target="_blank" rel="noopener noreferrer">Contact</a>
+- **Report a security issue:** <a href="https://medjay.dpdns.org/security-policy" target="_blank" rel="noopener noreferrer">Security Policy</a>
+
+## Follow
+
+- **X:** <a href="https://x.com/medjayos" target="_blank" rel="noopener noreferrer">@medjayos</a>
+- **Mastodon:** <a href="https://infosec.exchange/@medjayos" target="_blank" rel="noopener noreferrer">@medjayos</a>
+- **Bluesky:** <a href="https://bsky.app/profile/medjayos.bsky.social" target="_blank" rel="noopener noreferrer">@medjayos.bsky.social</a>
+- **Reddit:** <a href="https://www.reddit.com/user/medjayos/" target="_blank" rel="noopener noreferrer">u/medjayos</a>
+- **Facebook:** <a href="https://www.facebook.com/medjayos" target="_blank" rel="noopener noreferrer">MedjayOS</a>
+
+---
+
+<div align="center">
+
+<sub>MedjayOS is an independent project. Use it responsibly and lawfully.</sub>
+
+</div>
