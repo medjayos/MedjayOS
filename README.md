@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # MedjayOS
 
@@ -9,6 +9,25 @@
 [**Launch MedjayOS →**](https://medjay.dpdns.org/)
 
 </div>
+
+---
+
+## Terminal
+
+<div align="center">
+
+![Profile Visits](https://komarev.com/ghpvc/?username=medjayos&label=PROFILE+VISITS&color=39ff14&style=flat)
+
+</div>
+
+```bash
+[root@medjayos ~]$ ./profile_counter.sh
+
+> User: medjayos
+> Project: MedjayOS
+> Status: Online
+> Mission: Observe. Investigate. Protect.
+```
 
 ---
 
@@ -57,4 +76,10 @@ Good investigation is not only about finding information. It is about verifying 
 
 ---
 
+<div align="center">
+
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=medjayos&label=VISITORS&color=39ff14&style=flat)
+
 <sub>MedjayOS is an independent project. Use it responsibly and lawfully.</sub>
+
+</div>
