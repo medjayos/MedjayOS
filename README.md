@@ -18,7 +18,7 @@
 <tr>
 <td>
 
-<pre><font color="#39ff14">[root@github ~]$ ./profile_counter.sh</font>
+<pre><font color="#39ff14">[root@MedjayOS ~]$ ./profile_counter.sh</font>
 <font color="#39ff14">&gt; User: medjayos</font>
 <font color="#39ff14">&gt; Visits: </font><img src="https://komarev.com/ghpvc/?username=medjayos&label=&color=0a0a0a&style=flat" alt="Profile visits"></pre>
 
