@@ -6,9 +6,26 @@
 
 *Observe. Investigate. Protect.*
 
-[**Launch MedjayOS →**](https://medjay.dpdns.org/)
+<a href="https://medjay.dpdns.org/" target="_blank" rel="noopener noreferrer"><strong>Launch MedjayOS →</strong></a>
 
-![Profile Visits](https://komarev.com/ghpvc/?username=medjayos&label=PROFILE+VISITS&color=39ff14&style=flat)
+</div>
+
+---
+
+## Terminal
+
+<div align="center">
+
+<table>
+<tr><td bgcolor="#0a0a0a">
+
+<pre><font color="#39ff14">[root@github ~]$ ./profile_counter.sh</font></pre>
+
+<font color="#39ff14"> &gt; User: medjayos</font><br>
+<font color="#39ff14"> &gt; Visits: </font><img src="https://komarev.com/ghpvc/?username=medjayos&label=&color=0a0a0a&style=flat" alt="Profile visits">
+
+</td></tr>
+</table>
 
 </div>
 
@@ -39,28 +56,4 @@ Good investigation is not only about finding information. It is about verifying 
 ## Privacy
 
 - Notebook entries and case files stay in your browser.
-- Read the full [privacy notice](https://medjay.dpdns.org/privacy).
-
-## Links
-
-- **Website:** https://medjay.dpdns.org/
-- **Articles:** https://medjay.dpdns.org/apps/articles
-- **Field Manual:** https://medjay.dpdns.org/apps/field-manual
-- **Contact:** https://medjay.dpdns.org/contact
-- **Report a security issue:** https://medjay.dpdns.org/security-policy
-
-## Follow
-
-- **X:** https://x.com/medjayos
-- **Mastodon:** https://infosec.exchange/@medjayos
-- **Bluesky:** https://bsky.app/profile/medjayos.bsky.social
-- **Reddit:** https://www.reddit.com/user/medjayos/
-- **Facebook:** https://www.facebook.com/medjayos
-
----
-
-<div align="center">
-
-<sub>MedjayOS is an independent project. Use it responsibly and lawfully.</sub>
-
-</div>
+- Read the full <a href="https://medjay.dpdns.org/privacy" target="_blank" rel="
